@@ -38,7 +38,13 @@ Favorite Apps:
   Obsidian:
   - Ability to mindmap and see how ideas connect together
   - Ability to download community plugins to enchance app experience 
-  
+
+
+
+
+
+"MindMake" would be an app that allows the user to translate either physical or digital notes into a flowchart or mindmap. Mindmaps/flowcharts simulate how the brain naturally breaks down information and connections betwwen ideas using the concept of neural plasticity. MindMake's primary goal is to simplify paragraphs of text into a quick flowchart, allowing it to be easier to understand and digest for both college students and everyday people alike. 
+
   
 ## Notes
 
